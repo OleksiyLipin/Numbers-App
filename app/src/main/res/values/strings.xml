@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name" translatable="false">Numbers</string>
+
+    <string name="descriptionText">Enter a number</string>
+    <string name="hint">Number</string>
+    <string name="buttonGetFactText">Get fact</string>
+    <string name="buttonGetFactTextRandom">Get fact about random number</string>
+    <string name="invalid_size">Invalid size</string>
+    <string name="must_be_positive_number_or_zero">Must be positive number or zero</string>
+    <string name="internetConnectionError">Internet connection error</string>
+
+    <string name="buttonToMainFragmentText">Back to home</string>
+    <string name="fragmentDescriptionText">Description fragment</string>
+    <string name="databaseError">Database error</string>
+</resources>

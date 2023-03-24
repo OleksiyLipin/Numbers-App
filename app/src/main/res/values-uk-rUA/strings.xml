@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="descriptionText">Введіть число</string>
+    <string name="hint">Число</string>
+    <string name="buttonGetFactText">Отримати факт</string>
+    <string name="buttonGetFactTextRandom">Отримати факт про випадкове число</string>
+    <string name="invalid_size">Не вірний розмір</string>
+    <string name="must_be_positive_number_or_zero">Число повинно бути позитивним або нульовим</string>
+    <string name="internetConnectionError">Помилка інтернет з\'єднання</string>
+
+    <string name="buttonToMainFragmentText">До головного екрану</string>
+    <string name="fragmentDescriptionText">Другий фрагмент</string>
+    <string name="databaseError">Помилка бази даних</string>
+</resources>
